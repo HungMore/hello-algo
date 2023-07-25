@@ -16,3 +16,7 @@
 
 # test script
 test.sh
+
+*.iml
+
+out/
